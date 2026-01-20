@@ -1,0 +1,5 @@
+.loading {
+  /* display: none: removed, it hides the loader */
+  opacity: 1;
+  z-index: 999;
+}
